@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dyrvovidna Strucktura/1.0.0": {
+        "runtime": {
+          "Dyrvovidna Strucktura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dyrvovidna Strucktura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
